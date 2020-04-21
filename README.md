@@ -1,2 +1,3 @@
 # Stanford-CS106A
-Stanford classes for Python 
+This my fisrt Stanford classes for Python.
+Here is my assignments duirng this class.
